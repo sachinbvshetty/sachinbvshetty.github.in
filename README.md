@@ -1,13 +1,12 @@
-<!DOCTYPE html>
-<html>
-<body>
+# ☕ Responsive Coffee Website
+## [Watch it on youtube](https://youtu.be/kObf5-dJMpw)
+### ☕ Responsive Coffee Website
 
-<h1>This is heading 1</h1>
-<h2>This is heading 2</h2>
-<h3>This is heading 3</h3>
-<h4>This is heading 4</h4>
-<h5>This is heading 5</h5>
-<h6>This is heading 6</h6>
+- Responsive Coffee Website Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-</body>
-</html># sachinbvshetty.github.in
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+![preview img](/preview.png)
